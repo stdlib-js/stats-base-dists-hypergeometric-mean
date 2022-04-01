@@ -1,0 +1,31 @@
+{
+  "name": "@stdlib/stats-base-dists-hypergeometric-mean",
+  "version": "0.0.0",
+  "description": "Hypergeometric distribution expected value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-hypergeometric-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "parameter",
+    "discrete",
+    "hypergeometric",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
