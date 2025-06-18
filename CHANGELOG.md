@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-06-18)
+
+<section class="features">
+
+### Features
+
+-   [`0498764`](https://github.com/stdlib-js/stdlib/commit/0498764541343a2eab6db22b6a203d76d0070717) - add C implementation for `stats/base/dists/hypergeometric/mean` [(#4193)](https://github.com/stdlib-js/stdlib/pull/4193)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3662](https://github.com/stdlib-js/stdlib/issues/3662)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`0498764`](https://github.com/stdlib-js/stdlib/commit/0498764541343a2eab6db22b6a203d76d0070717) - **feat:** add C implementation for `stats/base/dists/hypergeometric/mean` [(#4193)](https://github.com/stdlib-js/stdlib/pull/4193) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`b9bddfe`](https://github.com/stdlib-js/stdlib/commit/b9bddfefbcc4f301f5a63c9de30b2c11b13a989f) - **bench:** refactor random number generation in `stats/base/dists/hypergeometric` [(#4955)](https://github.com/stdlib-js/stdlib/pull/4955) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Manvith M
+-   Philipp Burckhardt
 
 </section>
 
