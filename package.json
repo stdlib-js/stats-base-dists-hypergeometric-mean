@@ -84,6 +84,9 @@
     "dist",
     "parameter",
     "discrete",
+    "mean",
+    "average",
+    "avg",
     "hypergeometric",
     "univariate"
   ],

@@ -1,27 +1,5 @@
+"use strict";var n=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var s=n(function(q,a){
+var i=require('@stdlib/math-base-assert-is-nonnegative-integer/dist'),u=require('@stdlib/constants-float64-pinf/dist');function o(r,e,t){return!i(r)||!i(e)||!i(t)||r===u||e===u||e>r||t>r?NaN:t*(e/r)}a.exports=o
+});var v=s();module.exports=v;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Hypergeometric distribution expected value.
-*
-* @module @stdlib/stats-base-dists-hypergeometric-mean
-*
-* @example
-* var mean = require( '@stdlib/stats-base-dists-hypergeometric-mean' );
-*
-* var v = mean( 16, 11, 4 );
-* // returns 2.75
-*
-* v = mean( 2, 1, 1 );
-* // returns 0.5
-*/
-
-// MODULES //
-
-var mean = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = mean;
+//# sourceMappingURL=index.js.map
