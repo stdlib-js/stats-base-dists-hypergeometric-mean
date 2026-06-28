@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-07)
+## Unreleased (2026-06-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`096d2fc`](https://github.com/stdlib-js/stdlib/commit/096d2fc19ccc525dbe4806689db87bb105fa7077) - **chore:** add keywords [(#12647)](https://github.com/stdlib-js/stdlib/pull/12647) _(by Philipp Burckhardt)_
 -   [`80a434f`](https://github.com/stdlib-js/stdlib/commit/80a434fd26f6bce36941002b8222714dda4ae493) - **refactor:** remove unneeded `isnan` checks [(#11693)](https://github.com/stdlib-js/stdlib/pull/11693) _(by Philipp Burckhardt)_
 -   [`77a562a`](https://github.com/stdlib-js/stdlib/commit/77a562af730f04df4f25308c21fca66cb994b65a) - **bench:** refactor to use string interpolation in `stats/base/dists/hypergeometric` [(#10390)](https://github.com/stdlib-js/stdlib/pull/10390) _(by Vishal Gaikwad)_
