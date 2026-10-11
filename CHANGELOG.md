@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-16)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fed47c5`](https://github.com/stdlib-js/stdlib/commit/fed47c5a6a1ab89ce70e546957796748b761e6dd) - **chore:** clean-up [(#15426)](https://github.com/stdlib-js/stdlib/pull/15426) _(by Philipp Burckhardt)_
 -   [`42edb13`](https://github.com/stdlib-js/stdlib/commit/42edb13d4cebe012e89e252550b87bd8a2777135) - **test:** migrate `stats/base/dists/hypergeometric/mean` to ULP-based assertions [(#15235)](https://github.com/stdlib-js/stdlib/pull/15235) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`096d2fc`](https://github.com/stdlib-js/stdlib/commit/096d2fc19ccc525dbe4806689db87bb105fa7077) - **chore:** add keywords [(#12647)](https://github.com/stdlib-js/stdlib/pull/12647) _(by Philipp Burckhardt)_
